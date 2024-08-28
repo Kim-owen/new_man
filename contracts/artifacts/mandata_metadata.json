@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "remainder",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/4_mandata.sol": "mandata"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/4_mandata.sol": {
+			"keccak256": "0xd04769cbefa9c79dfa27779fb70aaaddc9eb4384a4f4419218573627a9ab6495",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://170b5e1059fa1728bd9b486c36465db912a5eab398b5403066f5aee353d038f3",
+				"dweb:/ipfs/QmeoU6uwNXwU2zg9W1B4FN4Hnxm7EMW8pi8KCGCaSNzHGE"
+			]
+		}
+	},
+	"version": 1
+}
